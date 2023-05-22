@@ -1,0 +1,11 @@
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\bin\Debug\Restaurant Calculator App.exe.config
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\bin\Debug\Restaurant Calculator App.exe
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\bin\Debug\Restaurant Calculator App.pdb
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant Calculator App.csproj.AssemblyReference.cache
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant Calculator App.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant_Calculator_App.BillCalc.resources
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant_Calculator_App.Properties.Resources.resources
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant Calculator App.csproj.GenerateResource.cache
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant Calculator App.exe
+C:\Users\tanne\OneDrive\Desktop\C#\Restaurant Calculator App\Restaurant Calculator App\obj\Debug\Restaurant Calculator App.pdb
